@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>teamID</key>
+	<string>从项目-&gt;Generate 下面的sign 找到对应的TeamId</string>
+	<key>method</key>
+	<string>ad-hoc</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>Bundle ID</key>
+		<string>就是bundel Identifier</string>
+	</dict>
+</dict>
+</plist>
